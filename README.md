@@ -19,3 +19,17 @@ Hi, my name is Orhan I started software development 3 year ago with developing D
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyrest&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
+
+class Hyrest {
+    constructor(options) {
+        this.name = "Orhan",
+        this.sex = "man",
+        this.length = "180",
+        this.type = "human",
+        this.job = "student",
+        this.weight = "59",
+        this.age = "19"
+    };
+}
+
+module.exports = Hyrest

@@ -6,6 +6,28 @@ Hi, my name is Orhan I started software development 3 year ago with developing D
     <img src="https://komarev.com/ghpvc/?username=Hypzexx&color=dc143c"/>
 </div>
 
+## :zap: Contact
+
+<div align="center">
+    <a href="https://discord.com/users/689188522946592851" target="_blank"><img src="https://shields.io/badge/Hyrest-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Hyrestxqw" target="_blank"><img src="https://shields.io/badge/Hyrest-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~hypzex" target="_blank"><img src="https://shields.io/badge/Hyrest-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.gg/1953" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://Hyrest.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+</div>
+
+## :computer: Technologies I Use
+
+<div align="center">
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
+    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+
+
 <div align="center">
     <a href="https://discord.com/users/689188522946592851" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/689188522946592851"></a>
 
@@ -20,16 +42,3 @@ Hi, my name is Orhan I started software development 3 year ago with developing D
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyrest&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
-class Hyrest {
-    constructor(options) {
-        this.name = "Orhan",
-        this.sex = "man",
-        this.length = "180",
-        this.type = "human",
-        this.job = "student",
-        this.weight = "59",
-        this.age = "19"
-    };
-}
-
-module.exports = Hyrest

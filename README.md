@@ -1,4 +1,4 @@
-# ✨ Hi, I am Hyrest
+# ✨ Hi, I am Slaxed
 
 Hi, my name is Orhan I started software development 3 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
@@ -7,7 +7,7 @@ Hi, my name is Orhan I started software development 3 year ago with developing D
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/689188522946592851" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/689188522946592851"></a>
+    <a href="https://discord.com/users/906842557877735444" title="Discord Profile"> <img src="https://lanyard-profile-readme.vercel.app/api/906842557877735444"></a>
 
 </div>
 
